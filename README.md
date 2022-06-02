@@ -1,6 +1,6 @@
 **Stock Price Prediction for Pharmaceutical Companies During Covid-19**
 
-**Overview **
+**Overview**
 
 In the year 2020, rise in COVID-19 cases and the anticipation of fully functional vaccines led to fluctuations and increase in the stock prices of the pharmaceutical companies. The main aim of this project is to predict and forecast the stock prices of pharmaceutical companies that worked on developing the COVID-19 vaccines and verify the impact of external factors such as public sentiments and stock prices of competitor companies on the stock prices of the company.
 
